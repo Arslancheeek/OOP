@@ -1,0 +1,17 @@
+# Build files
+build/
+cmake-build-*/
+bin/
+obj/
+
+# Compiled files
+*.o
+*.out
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
